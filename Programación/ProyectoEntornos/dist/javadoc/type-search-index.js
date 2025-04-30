@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"proyectoentornos","l":"Android"},{"p":"proyectoentornos","l":"Gps"},{"p":"proyectoentornos","l":"Linterna"},{"p":"proyectoentornos","l":"Pijiphone"},{"p":"proyectoentornos","l":"ProyectoEntornos"},{"p":"proyectoentornos","l":"Telefono"}];updateSearchResults();
